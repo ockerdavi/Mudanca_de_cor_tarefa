@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    padding: 8px;
+    background-color:white;
+    border: 1px solid black;
+    justify-content: center;
+}
+.itema{
+    
+    border: solid 1px blue;
+    font-size: 3rem;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    padding: 8px 16px;
+}
+.item{
+    border: solid 1px blue;
+    font-size: 3rem;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    padding: 8px 16px;
+}
+.item:hover{
+    color: black;
+    background-color: white;
+}
